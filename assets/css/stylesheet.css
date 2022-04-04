@@ -72,35 +72,6 @@ header nav ul li a:hover {
 
 /* header styling end */
 
-
-/* hero styling start */
-/*.hero {
-    background-image: url("../images/brickwall.jpg");
-    height: 600px;
-    background-size: cover;
-    background-position: center;
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-} */
-
-.hero img {
-    height: 400px;
-}
-
-.hero .quote {
-    font-size: 35px;
-    display: flex;
-    justify-content: end;
-    text-align: right;
-    color: lightgray;
-}
-
-.hero .quote #quote-text {
-    font-size: 48px;
-}
-/* hero styling end */
-
 /* utility class styling start */
 .title {
     border-right: 5px solid var(--pop);
@@ -190,14 +161,6 @@ header nav ul li a:hover {
 .prestige-worldwide {
     background-image: url("../images/Horiseon.jpg");
     background-position: 60% 50%;
-}
-
-.fo4-char-mgr {
-    background-image: url("../images/ruins.jpg");
-}
-
-.project5 {
-    background-image: url("../images/canyon.jpg");
 }
 
 .project-label {
